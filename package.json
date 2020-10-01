@@ -1,7 +1,7 @@
 {
-  "name": "crmgraphqlcurso",
+  "name": "crmgraphql",
   "version": "1.0.0",
-  "description": "Curso de GraphQl",
+  "description": "CrmGraphQl",
   "main": "index.js",
   "scripts": {
     "start": "node .",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patricio1984/CRM-made-with-Next.js-Apollo-MongoDB-and-GraphQL.git"
+    "url": "git+https://github.com/patricio1984/CRMGraphQL.git"
   },
   "author": "Patricio D Mainero",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/patricio1984/CRM-made-with-Next.js-Apollo-MongoDB-and-GraphQL/issues"
+    "url": "https://github.com/patricio1984/CRMGraphQL/issues"
   },
-  "homepage": "https://github.com/patricio1984/CRM-made-with-Next.js-Apollo-MongoDB-and-GraphQL#readme",
+  "homepage": "https://github.com/patricio1984/CRMGraphQL#readme",
   "dependencies": {
     "apollo": "^2.30.3",
     "apollo-server": "^2.17.0",
